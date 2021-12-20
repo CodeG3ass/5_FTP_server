@@ -101,10 +101,10 @@ def process(req):
 
 3. Добавьте возможность авторизации пользователя на сервере.
 
-![image](https://user-images.githubusercontent.com/92590831/146697104-a00744cd-e20d-4ddb-8ab7-68d31a3438a4.png)
+![image](https://user-images.githubusercontent.com/92590831/146783026-510f385b-b023-47f3-9e30-367e4308c149.png)
 
 
-![image](https://user-images.githubusercontent.com/92590831/146696608-4dbeb9c8-93d6-431f-afb5-aaf9c8137ac4.png)
+![image](https://user-images.githubusercontent.com/92590831/146782881-6b906daf-b68c-469b-ae3a-a557b43b3a39.png)
 
 ![image](https://user-images.githubusercontent.com/92590831/146696618-7ceb6703-5162-4afd-badd-2fa0edce1bfe.png)
 
